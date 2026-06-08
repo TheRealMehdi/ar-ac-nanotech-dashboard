@@ -2,7 +2,8 @@
 
 A professional, interactive React web application showcasing the **A-R/AC Nanocomposite Technology** (Patent No. 105476). This project serves as a comprehensive dashboard and simulator designed to visualize urban impacts, carbon credits, and advanced technological innovations in sustainability and tunnel rescue operations.
 
-📌 **Live Demo:** [Insert your Vercel or Netlify live link here]
+🎨 **Design & Development by:** Mehdi Salman Manesh
+📌 **Live Demo:** [breath-of-concrete.lovable.app](https://breath-of-concrete.lovable.app/)
 
 ---
 
@@ -11,7 +12,7 @@ A professional, interactive React web application showcasing the **A-R/AC Nanoco
 Based on the architecture of this application (`Index (5).tsx`), the project is divided into specialized sections:
 
 * **⚡ Hero & Innovation Showcase:** Introduces the A-R/AC Nanocomposite core tech and the core problems it addresses in modern urban areas.
-* **📊 Tehran Environmental Simulator:** An interactive simulation widget tailored to analyze and visualize the technology's impact on Tehran's heavy urban pollution.
+* **📊 Tehran Environmental Simulator:** An interactive simulation widget tailored to analyze and visualize the technology's impact on Tehran's heavy urban pollution[cite: 1].
 * **🚨 Tunnel Rescue Operations:** A dedicated module demonstrating the performance and safety metrics of the tech during critical tunnel incidents[cite: 1].
 * **🍃 Carbon Credit Calculator:** A dynamic tool allowing users to calculate carbon offsets and environmental credits achieved through this technology[cite: 1].
 * **🎮 Gamification & Health Visualizer:** Interactive widgets that engage users and visualize real-time health benefits and performance metrics[cite: 1].
